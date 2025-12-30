@@ -1,8 +1,8 @@
-# 🧑‍💼 Gerenciador de Funcionários no  Django
+# Gerenciador de Funcionários no  Django
 
 Projeto desenvolvido com Django para cadastro, listagem, atualização e exclusão de funcionários.
 
-## ✨ Funcionalidades
+## ✨| Funcionalidades
 - Cadastro de funcionários
 - Listagem de funcionários
 - Atualização de dados
@@ -10,19 +10,19 @@ Projeto desenvolvido com Django para cadastro, listagem, atualização e exclus�
 - Filtros e tags customizadas no template
 - Interface com Bootstrap
 
-## 🛠 Tecnologias Utilizadas
+## 🛠 | Tecnologias Utilizadas
 - Python 3.12
 - Django
 - Bootstrap 4
 - SQLite
 
-## 📂 Estrutura do Projeto
+## 📂 | Estrutura do Projeto
 - App principal: `website`
 - Templates organizados com `base.html`
 - Tags e filtros customizados (`templatetags`)
 - CRUD completo com Django ORM
 
-## ▶️ Como Executar o Projeto
+## ▶️ | Como Executar o Projeto ?
 
 1. Clone o repositório:
 ```bash
